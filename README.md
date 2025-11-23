@@ -61,7 +61,7 @@ My goal is simple:
 ## 🎨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,vite" alt="Skill Icons: HTML, CSS, Tailwind, JavaScript, React, Firebase, Vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,git,figma" alt="Skill Icons: HTML, CSS, Tailwind, JavaScript, React, Firebase, Vite" />
 </p>
 
 ---
