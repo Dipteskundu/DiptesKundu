@@ -11,6 +11,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&width=100%" alt="Header Divider" />
+</p>
+
 
 ## 💖 Who Am I?
 
@@ -78,5 +82,19 @@ My goal is simple:
   <br>
   🔗 LinkedIn: <a href="https://www.linkedin.com/in/diptes-kundu/" target="_blank">https://www.linkedin.com/in/diptes-kundu/</a>
 </p>
+
+---
+
+<p align="center" style="color:#FF6EC7; font-size:18px; font-weight:600; line-height:1.6;">
+  🙏 <strong>Thank you for visiting my profile!</strong><br>
+  🌟 Stay creative, keep learning, and have a wonderful day!
+</p>
+
+<p align="center">
+  <img width="120%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Waving Footer Divider" />
+</p>
+
+
+
 
 
