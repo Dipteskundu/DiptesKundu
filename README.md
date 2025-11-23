@@ -10,11 +10,7 @@
   <img width="20%" src="https://i.ibb.co/b5B0rTxc/127511291.png" alt="Diptes Kumar Kundu Profile Picture" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&width=100%" alt="Header Divider" />
-</p>
 
----
 
 ## 💖 Who Am I?
 
@@ -31,7 +27,6 @@ who builds apps that feel **smooth, interactive, and delightful**.
   <img width="40%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHd2YXhmdnAzNDVnb2h5eGczMDY3Mm4yOHZreTFreGFtbTNlZ2Y1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" alt="GIF of Coding" />
 </p>
 
----
 
 ## 🚀 What I Do Best
 
@@ -42,7 +37,6 @@ who builds apps that feel **smooth, interactive, and delightful**.
 ✨ Write readable, maintainable JavaScript  
 ✨ Turn ideas into beautiful web experiences  
 
----
 
 ## 🌟 My Development Philosophy
 
@@ -56,7 +50,6 @@ I believe great frontend development is a balance of:
 My goal is simple:  
 **Build interfaces that feel natural, modern, and delightful.**
 
----
 
 ## 🎨 Tech Stack
 
@@ -64,14 +57,12 @@ My goal is simple:
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,git,figma" alt="Skill Icons: HTML, CSS, Tailwind, JavaScript, React, Firebase, Vite" />
 </p>
 
----
 
 ## 🌸 Featured Projects
 
 ### ✨ Bloom — Lifestyle Store  
 <img width="100%" src="./assets/bloom-screenshot.png" alt="Screenshot of Bloom Lifestyle Store Project">
 
----
 
 ### ✨ Tailwind Insights  
 <img width="100%" src="./assets/tailwind-insights.png" alt="Screenshot of Tailwind Insights Project">
@@ -79,7 +70,6 @@ My goal is simple:
 🔗 Live: https://dipteskundu.github.io/Tailwind-Insights/  
 🔗 GitHub: https://github.com/Dipteskundu/Tailwind-Insights.git  
 
----
 
 ## 💌 Contact Me
 
