@@ -62,8 +62,6 @@ My goal is simple:
 </p>
 <br>
 <br>
-<br>
-
 
 
 ## 🌸 Featured Projects
@@ -72,12 +70,17 @@ My goal is simple:
 <img align="center" width="60%" src="https://i.ibb.co.com/RkV9dqQv/Screenshot-2025-11-27-161225.png" alt="Screenshot of CozyPaws – Pet Care in Winter">
 
 🔗 Live: https://carazy-paws.netlify.app/ <br>
+<br>
+<br>
+
 🔗 GitHub: https://github.com/Dipteskundu/CozyPaws-Pet-Care-in-Winter.git
 
 ### ✨ Hero Apps Store  
 <img align="center" width="60%" src="https://i.ibb.co.com/NgSKwpSY/Screenshot-2025-11-27-155908.png" alt="Screenshot of hero-apps-store">
 
 🔗 Live: https://react-hero-app-store.netlify.app/  <br>
+<br>
+
 🔗 GitHub: https://github.com/Dipteskundu/React-Hero-App-Store.git
 
 
