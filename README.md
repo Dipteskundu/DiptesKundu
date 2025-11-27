@@ -68,8 +68,6 @@ My goal is simple:
 
 🔗 Live: https://carazy-paws.netlify.app/ <br>
 <br>
-<br>
-
 🔗 GitHub: https://github.com/Dipteskundu/CozyPaws-Pet-Care-in-Winter.git
 
 ### ✨ Hero Apps Store  
@@ -77,7 +75,6 @@ My goal is simple:
 
 🔗 Live: https://react-hero-app-store.netlify.app/  <br>
 <br>
-
 🔗 GitHub: https://github.com/Dipteskundu/React-Hero-App-Store.git
 
 
