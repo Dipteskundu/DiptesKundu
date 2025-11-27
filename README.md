@@ -60,21 +60,27 @@ My goal is simple:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,git,figma" alt="Skill Icons: HTML, CSS, Tailwind, JavaScript, React, Firebase, Vite" />
 </p>
+<br>
+<br>
+<br>
+
 
 
 ## 🌸 Featured Projects
 
 ### ✨ CozyPaws – Pet Care in Winter 
-<img width="100%" src="https://i.ibb.co.com/RkV9dqQv/Screenshot-2025-11-27-161225.png" alt="Screenshot of CozyPaws – Pet Care in Winter">
+<img align="center" width="60%" src="https://i.ibb.co.com/RkV9dqQv/Screenshot-2025-11-27-161225.png" alt="Screenshot of CozyPaws – Pet Care in Winter">
 
-🔗 Live: https://carazy-paws.netlify.app/ 
+🔗 Live: https://carazy-paws.netlify.app/ <br>
 🔗 GitHub: https://github.com/Dipteskundu/CozyPaws-Pet-Care-in-Winter.git
 
 ### ✨ Hero Apps Store  
-<img width="100%" src="https://i.ibb.co.com/NgSKwpSY/Screenshot-2025-11-27-155908.png" alt="Screenshot of hero-apps-store">
+<img align="center" width="60%" src="https://i.ibb.co.com/NgSKwpSY/Screenshot-2025-11-27-155908.png" alt="Screenshot of hero-apps-store">
 
-🔗 Live: https://react-hero-app-store.netlify.app/  
+🔗 Live: https://react-hero-app-store.netlify.app/  <br>
 🔗 GitHub: https://github.com/Dipteskundu/React-Hero-App-Store.git
+
+
 
 
 ## 💌 Contact Me
