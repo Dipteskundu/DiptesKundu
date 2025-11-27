@@ -64,15 +64,17 @@ My goal is simple:
 
 ## 🌸 Featured Projects
 
-### ✨ Bloom — Lifestyle Store  
-<img width="100%" src="./assets/bloom-screenshot.png" alt="Screenshot of Bloom Lifestyle Store Project">
+### ✨ CozyPaws – Pet Care in Winter 
+<img width="100%" src="https://i.ibb.co.com/RkV9dqQv/Screenshot-2025-11-27-161225.png" alt="Screenshot of CozyPaws – Pet Care in Winter">
 
+🔗 Live: https://carazy-paws.netlify.app/ 
+🔗 GitHub: https://github.com/Dipteskundu/CozyPaws-Pet-Care-in-Winter.git
 
-### ✨ Tailwind Insights  
-<img width="100%" src="./assets/tailwind-insights.png" alt="Screenshot of Tailwind Insights Project">
+### ✨ Hero Apps Store  
+<img width="100%" src="https://i.ibb.co.com/NgSKwpSY/Screenshot-2025-11-27-155908.png" alt="Screenshot of hero-apps-store">
 
-🔗 Live: https://dipteskundu.github.io/Tailwind-Insights/  
-🔗 GitHub: https://github.com/Dipteskundu/Tailwind-Insights.git  
+🔗 Live: https://react-hero-app-store.netlify.app/  
+🔗 GitHub: https://github.com/Dipteskundu/React-Hero-App-Store.git
 
 
 ## 💌 Contact Me
@@ -93,8 +95,3 @@ My goal is simple:
 <p align="center">
   <img width="120%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Waving Footer Divider" />
 </p>
-
-
-
-
-
