@@ -100,7 +100,7 @@ Build interfaces that feel natural, modern, and delightful.
 
 ## 📍 Location & Contact
 
-- 🌍 **Location:** Bangladesh  
+- 🌍 **Location:** Dhaka, Bangladesh  
 - 📧 **Email:** dipteskundu6@gmail.com  
 - 📞 **Contact Number:** +8801571333395 
 
