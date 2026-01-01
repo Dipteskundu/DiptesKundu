@@ -98,7 +98,7 @@ Build interfaces that feel natural, modern, and delightful.
 
 ---
 
-## 📍 Location & Contact
+## Location & Contact
 
 - 🌍 **Location:** Dhaka, Bangladesh  
 - 📧 **Email:** dipteskundu6@gmail.com  
