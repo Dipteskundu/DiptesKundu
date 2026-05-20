@@ -82,19 +82,19 @@ Build interfaces that feel natural, modern, and delightful.
 
 ## 🌸 Featured Projects
 
-### ✨ CozyPaws – Pet Care in Winter
-<img align="center" width="60%" src="https://i.ibb.co.com/RkV9dqQv/Screenshot-2025-11-27-161225.png" alt="CozyPaws Screenshot">
+### ✨ SkillMatch AI - 
+<img align="center" width="60%" src="https://i.ibb.co.com/mrjMxWSn/Screenshot-2026-05-20-235211.png" alt="CozyPaws Screenshot">
 
-🔗 **Live:** https://carazy-paws.netlify.app/  
-🔗 **GitHub:** https://github.com/Dipteskundu/CozyPaws-Pet-Care-in-Winter.git
+🔗 **Live:** https://skillmatchai-phi.vercel.app/  
+🔗 **GitHub:** https://github.com/Dipteskundu/SkillMatch-AI
 
 ---
 
-### ✨ Hero Apps Store
-<img align="center" width="60%" src="https://i.ibb.co.com/NgSKwpSY/Screenshot-2025-11-27-155908.png" alt="Hero Apps Store Screenshot">
+### ✨ eTuitionBd
+<img align="center" width="60%" src="https://i.ibb.co.com/QjJj0BM1/Screenshot-2026-05-20-235400.png" alt="eTuitionBd">
 
-🔗 **Live:** https://react-hero-app-store.netlify.app/  
-🔗 **GitHub:** https://github.com/Dipteskundu/React-Hero-App-Store.git
+🔗 **Live:** https://etuitionbd-the-best-tuition-media.netlify.app/  
+🔗 **GitHub:** https://github.com/Dipteskundu/eTuitionBd
 
 ---
 
